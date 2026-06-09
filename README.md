@@ -23,6 +23,19 @@ This repository is the official PyTorch implementation of our ICCV 2025 paper. O
 
 ---
 
+## Code
+
+Code will be released soon.
+
+---
+
+
+## Acknowledgements
+
+This work builds upon [GenPose](https://github.com/Jiyao06/GenPose). We thank the authors for their excellent work and open-source implementation.
+
+---
+
 ## Citation
 
 If you find our work useful in your research, please consider citing:
@@ -37,15 +50,3 @@ If you find our work useful in your research, please consider citing:
   pages     = {5757-5768}
 }
 ```
-
----
-
-## Code
-
-Code will be released soon.
-
----
-
-## Acknowledgements
-
-This work builds upon [GenPose](https://github.com/Jiyao06/GenPose). We thank the authors for their excellent work and open-source implementation.
