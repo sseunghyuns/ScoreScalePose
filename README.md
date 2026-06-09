@@ -4,7 +4,7 @@
 
 [Seunghyun Lee](https://github.com/sseunghyun) · [Tae-Kyun Kim](https://sites.google.com/view/tkkim/home)
 
-Korea Advanced Institute of Science and Technology (KAIST)
+KAIST
 
 [![Paper](https://img.shields.io/badge/Paper-arXiv-green)](https://arxiv.org/abs/2510.04125)
 [![ICCV 2025](https://img.shields.io/badge/ICCV-2025-blue)](https://openaccess.thecvf.com/content/ICCV2025/html/Lee_Joint_Learning_of_Pose_Regression_and_Denoising_Diffusion_with_Score_ICCV_2025_paper.html)
@@ -49,5 +49,3 @@ Code will be released soon.
 ## Acknowledgements
 
 This work builds upon [GenPose](https://github.com/Jiyao06/GenPose). We thank the authors for their excellent work and open-source implementation.
-
-This work was supported by NST grant (CRC 21011, MSIT), IITP grant (RS-2023-00228996, RS-2024-00459749, RS-2025-25443318, RS-2025-25441313, MSIT) and KOCCA grant (RS-2024-00442308, MCST).
