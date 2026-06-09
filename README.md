@@ -2,7 +2,7 @@
 
 **ICCV 2025**
 
-[Seunghyun Lee](https://github.com/sseunghyun) · [Tae-Kyun Kim](https://sites.google.com/view/tkkim/home)
+[Seunghyun Lee](https://github.com/sseunghyuns) · [Tae-Kyun Kim](https://sites.google.com/view/tkkim/home)
 
 KAIST
 
