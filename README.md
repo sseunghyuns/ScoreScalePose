@@ -31,7 +31,7 @@ If you find our work useful in your research, please consider citing:
 @InProceedings{Lee_2025_ICCV,
   author    = {Lee, Seunghyun and Kim, Tae-Kyun},
   title     = {Joint Learning of Pose Regression and Denoising Diffusion with Score Scaling Sampling for Category-level 6D Pose Estimation},
-  booktitle = {Proceedings of the IEEE/CVF International Conference on Computer Vision (ICCV)},
+  booktitle = {Proceedings of the IEEE/CVF International Conference on Computer Vision (ICCV)}, 
   month     = {October},
   year      = {2025},
   pages     = {5757-5768}
@@ -42,7 +42,7 @@ If you find our work useful in your research, please consider citing:
 
 ## Code
 
-Code will be released soon. Stay tuned!
+Code will be released soon.
 
 ---
 
