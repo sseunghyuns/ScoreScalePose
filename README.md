@@ -23,6 +23,22 @@ This repository is the official PyTorch implementation of our ICCV 2025 paper. O
 
 ---
 
+## Visualization
+
+### Score Scaling Effect on Asymmetric Objects
+
+Sampling trajectory visualization comparing inference with and without score scaling guidance on asymmetric objects. Score scaling steers samples toward high-density pose regions, enabling accurate single-sample inference.
+
+![compare_baseline](assets/compare_baseline.gif)
+
+### Scaling Strategies on Symmetric Objects
+
+Sampling trajectory visualization comparing different score scaling strategies on symmetric objects, which exhibit multi-modal pose distributions.
+
+![scaling_strategy](assets/scaling_strategy.gif)
+
+---
+
 ## Code
 
 Code will be released soon.
